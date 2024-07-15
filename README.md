@@ -4,21 +4,21 @@
 I am **Aashin A P**, a 3rd-year B.Tech student in Information Technology at the Madras Institute of Technology.
 
 ## What I'm Up To
-- 🔭 Currently working on: 
+- 🔭 Currently working on: Deepening my knowledge in Data Structures and Algorithms
 - 🌱 Currently learning: Advanced Data Structures, Algorithm Design, and Quantum Computing
 - 👯 Looking to collaborate on: Open-source projects, especially in the fields of cloud computing, microservices architecture, and data visualization
-- 🤔 Looking for help with: Implementing efficient graph algorithms for optimizing delivery routes
-- 💬 Ask me about: Cloud computing with AWS, data visualization with D3.js, and developing microservices-based applications
+- 🤔 Looking for help with: Implementing a real-life railway database management system that can update itself daily with the database and real-time ticket booking service
+- 💬 Ask me about: Cloud computing with AWS, data visualization, and developing microservices-based applications
 - 📫 How to reach me: [apaashin@gmail.com] | [www.linkedin.com/in/aashin-a-p-21jan2005] 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If I could have any job without meeting requirements, I would choose to be an astronaut because of the thrilling possibilities of space exploration.
+- ⚡ Fun fact: I love space exploration🚀 and coding👨‍💻.
 
 ### My Projects
 
 - **MIT Chat Bot:** Developed front-end, data entry, and collection services.
 - **E-commerce Platform:** Built a microservices-based e-commerce platform using Node.js.
 - **Railway Management System:** Created using Oracle SQLPlus, PHP, JS, HTML, and CSS.
-- **E-Commerce Food Platform:** Developed using C++.
+- **E-Commerce Food Platform:** Developed using C++ OOPS concepts.
 
 ### Social Engagements
 
