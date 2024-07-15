@@ -13,13 +13,6 @@ I am **Aashin A P**, a 3rd-year B.Tech student in Information Technology at the 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love space exploration🚀 and coding👨‍💻.
 
-### My Projects
-
-- **MIT Chat Bot:** Developed front-end, data entry, and collection services.
-- **E-commerce Platform:** Built a microservices-based e-commerce platform using Node.js.
-- **Railway Management System:** Created using Oracle SQLPlus, PHP, JS, HTML, and CSS.
-- **E-Commerce Food Platform:** Developed using C++ OOPS concepts.
-
 ### Social Engagements
 
 - **QUANTUMIT:** Exploring quantum computing as a club member.
